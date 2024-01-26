@@ -155,8 +155,8 @@ The 3.62 average rating underscores our commitment to offering outstanding hospi
 ### Dynamic pricing strategy Offering coupons and cashback incentives directly to customers who book rooms through the hotel’s website or offline at checkout thus increasing realization.
 
 # Tools used
-### POWER BI
-### DAX
+#### 1. POWER BI
+#### 2. DAX
 
 
 ## Thank You So MUch !
