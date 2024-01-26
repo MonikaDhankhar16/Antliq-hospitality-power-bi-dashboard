@@ -144,6 +144,20 @@ As we continue to prioritize guest satisfaction, it’s important to maintain an
 The 3.62 average rating underscores our commitment to offering outstanding hospitality and ensuring our guests have memorable stays.
 
 
+# Suggestions:
+### Suggested, ways to raise revenue is to enhance occupancy rates.
+### Take advantage of late bookings and additional days of stay to increase revenue.
+### Maintain Occupancy Percentage is maximum on Weekends
+### Maximum bookings are done through others and makeyourtrip platform must focus on platforms from where people prefer fewer bookings.
+### Average rating is between 3.65 and 3.6 so try to pull the reasons from the hotels where hotel ratings are very low and fix them ASAP to generate more engagement.
+### Mumbai is showing a high average rating but those cities have ratings below 3 so fix them by understanding the reasons behind low ratings.
+### Fixed the issue highlighted by the customer in low-rated hotels to Increase occupancy rate.
+### Dynamic pricing strategy Offering coupons and cashback incentives directly to customers who book rooms through the hotel’s website or offline at checkout thus increasing realization.
+
+# Tools used
+## POWER BI
+## DAX
+
 
 
 
