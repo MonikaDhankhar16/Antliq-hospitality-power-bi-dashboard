@@ -1,6 +1,7 @@
 # Atliq-hospitality-power-bi-dashboard
 
 Welcome to the AtliQ Grands Revenue Insights project ! In this project, I have implemented data analytics using Power BI to empower AtliQ Grands with the ability to make data-driven decisions, surpass competitors in the market, and drive growth in various aspects like Market Share & Revenue.
+
 # Business problem:
 AtliQ Grands is the proud owner of numerous opulent hotels throughout India. Yet, AtliQ Grands finds itself experiencing a decline in both market share and revenue within the luxurious/business hotel sector. 
 I, as a data analyst, figure out the key problem of declining revenue using data analytics.
