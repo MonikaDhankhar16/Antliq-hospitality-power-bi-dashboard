@@ -102,9 +102,7 @@ Cancellation % calculating the cancellation percentage.
 ```
 Cancellation % = DIVIDE([Total cancelled bookings],[Total Bookings])
 ```
-<br>
-<br>
-<br>
+
 
 # Power-bi-dashboard
 
