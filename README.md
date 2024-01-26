@@ -20,9 +20,9 @@ Creating calculated measures:
 ADR Calculate the ADR (Average Daily rate). It is the ratio of revenue to the total rooms booked/sold. It is the measure of the average paid for rooms sold in a given time period.
 
 </pre>
-```
+
 ADR = DIVIDE( [Revenue], [Total Bookings],0)
-```
+
 </pre>
 
 Realization % calculates the realization percentage. It is nothing but the successful “checked out” percentage of overall bookings happened.
