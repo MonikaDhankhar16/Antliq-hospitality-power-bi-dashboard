@@ -25,6 +25,8 @@ Data modeling plays a pivotal role and serves as the foundation for generating m
 In the context of this project, we have meticulously followed the Snowflake data modeling method. This approach involves structuring data into normalized forms, resulting in reduced redundancy and improved query performance. This methodology enhances the way we organize and process data, ensuring optimal results for our analysis.
 
 
+![Data modeling](10.png)
+
 
 
 
