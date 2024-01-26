@@ -112,6 +112,37 @@ Cancellation % = DIVIDE([Total cancelled bookings],[Total Bookings])
 ![Data modeling](4.png)
 ![Data modeling](54.png)
 
+# Key Findings from this dashboard:
+The dashboard was utilized in an attempt to observe all the significant key metrics every week. The metrics of Realisation, ADR, and RevPar remained constant, with only a slight fluctuation in occupancy ranging from 50% to 60% when filtering the data according to the week. Throughout the entirety of the period, both occupancy and cancellation rates remained close to the benchmark set by the industry.
+
+Furthermore, Realisation, ADR, and RevPar also sustained a similar consistency when comparing weekdays to weekends.
+
+# Insights and suggestions:
+## ADR Remains Stable
+Upon analyzing the dashboard, it’s evident that the Average Daily Rate (ADR) for AtliQ Hotels has remained relatively stable over the given time frame. This stability in pricing indicates a consistent pricing strategy.
+
+Notably, AtliQ Hotels currently do not employ dynamic pricing based on weekdays and weekends. This presents an opportunity to consider adjusting the pricing strategy. Dynamic pricing can help optimize revenue by offering different rates for weekdays and weekends, aligning pricing more closely with demand fluctuations.
+
+This insight suggests that exploring dynamic pricing strategies could be a valuable initiative to consider, potentially leading to increased revenue and better revenue management.
+
+## Overall Occupancy Rate
+The overall occupancy rate for AtliQ Grands’ properties currently stands at a solid 57%. This figure reflects the percentage of available rooms that are being utilized by guests. A 57% occupancy rate indicates a substantial portion of rooms are booked, contributing positively to revenue.
+
+Maintaining a healthy occupancy rate is crucial for optimizing revenue and resource management. This insight suggests that AtliQ Grands has been successful in attracting guests and efficiently filling available rooms.
+
+As part of ongoing strategies, it may be worthwhile to explore avenues to further increase occupancy, especially during off-peak periods, to maximize revenue potential.
+
+Overall, the 57% occupancy rate provides a foundational understanding of AtliQ Grands’ performance and can serve as a basis for further revenue optimization efforts.
+
+## Average Rating
+The average guest rating for AtliQ Grands’ properties is a commendable 3.62. This rating, derived from guest reviews and surveys, reflects the overall satisfaction of guests who have experienced our hospitality.
+
+A rating of 3.62 signifies a positive guest experience, with the majority of guests expressing satisfaction with their stays. Guest ratings are a vital indicator of our service quality and the guest experience we provide.
+
+As we continue to prioritize guest satisfaction, it’s important to maintain and improve upon this rating. By consistently delivering exceptional service, addressing guest feedback, and enhancing guest experiences, we can aim for even higher ratings in the future.
+
+The 3.62 average rating underscores our commitment to offering outstanding hospitality and ensuring our guests have memorable stays.
+
 
 
 
