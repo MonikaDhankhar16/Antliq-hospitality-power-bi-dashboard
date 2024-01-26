@@ -52,6 +52,17 @@ Revenue WoW change % =
         DIVIDE(revcw,revpw,0)-1
 Occupancy WoW change % indicates occupancy change percentage week over week.
 
+<pre>
+```dax
+CALCULATE(
+    SUMX(
+        FILTER('Sales', 'Sales'[Quantity] > 10),
+        'Sales'[Price] * 'Sales'[Quantity]
+    )
+)
+```
+</pre>
+
 
 
 
