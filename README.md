@@ -34,13 +34,14 @@ ADR Calculate the ADR (Average Daily rate). It is the ratio of revenue to the to
 ```
 ADR = DIVIDE( [Revenue], [Total Bookings],0)
 ```
-
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
 Realization % calculates the realization percentage. It is nothing but the successful “checked out” percentage of overall bookings happened.
 
 ```
 Realisation % = 1- ([Cancellation %]+[No Show rate %])
 ```
-
+ <br>
+ 
 RevPAR Calculate the RevPAR (Revenue Per Available Room) RevPAR represents the revenue generated per available room, whether or not they are occupied. RevPAR helps hotels measure their revenue-generating performance to accurately price rooms. RevPAR can help hotels measure themselves against other properties or brands.
 ```
 RevPAR = DIVIDE([Revenue],[Total Capacity])
