@@ -42,41 +42,51 @@ Realisation % = 1- ([Cancellation %]+[No Show rate %])
 ```
 
 RevPAR Calculate the RevPAR (Revenue Per Available Room) RevPAR represents the revenue generated per available room, whether or not they are occupied. RevPAR helps hotels measure their revenue-generating performance to accurately price rooms. RevPAR can help hotels measure themselves against other properties or brands.
-
+```
 RevPAR = DIVIDE([Revenue],[Total Capacity])
+```
 DBRN calculates DBRN (Daily Booked Room Nights). This metric tells on average how many rooms are booked for a day considering a time period.
 
+```
 DBRN = DIVIDE([Total Bookings], [No of days])
+```
 DSRN calculates DSRN (Daily Sellable Room Nights). This metric tells on average how many rooms are ready to sell for a day considering a time period.
 
+```
 DSRN = DIVIDE([Total Capacity], [No of days])
+```
 DURN calculate DURN (Daily Utilized Room Nights). This metric tells on average how many rooms are successfully utilized by customers for a day considering a time period.
 
+```
 DURN = DIVIDE([Total Checked Out],[No of days])
+```
 Revenue WoW change % indicates revenue change percentage week over week.
 
+```
 Revenue WoW change % = 
         Var selv = IF(HASONEFILTER(dim_date[wn]),SELECTEDVALUE(dim_date[wn]),MAX(dim_date[wn]))
         var revcw = CALCULATE([Revenue],dim_date[wn]= selv)
         var revpw = CALCULATE([Revenue],FILTER(ALL(dim_date),dim_date[wn]= selv-1))
         
         return
-        
-        
         DIVIDE(revcw,revpw,0)-1
+```
+
 Occupancy WoW change % indicates occupancy change percentage week over week.
 
+```
 Occupancy WoW change % = 
         Var selv = IF(HASONEFILTER(dim_date[wn]),SELECTEDVALUE(dim_date[wn]),MAX(dim_date[wn]))
         var revcw = CALCULATE([Occupancy %],dim_date[wn]= selv)
         var revpw = CALCULATE([Occupancy %],FILTER(ALL(dim_date),dim_date[wn]= selv-1))
         
         return
-        
-        
         DIVIDE(revcw,revpw,0)-1
+```
+
 ADR WoW change % helps to find the ADR (Average Daily rate) change percentage week over week.
 
+```
 ADR WoW change % = 
         Var selv = IF(HASONEFILTER(dim_date[wn]),SELECTEDVALUE(dim_date[wn]),MAX(dim_date[wn]))
         var revcw = CALCULATE([ADR],dim_date[wn]= selv)
@@ -84,9 +94,13 @@ ADR WoW change % =
         
         return
         DIVIDE(revcw,revpw,0)-1
+```
+
 Cancellation % calculating the cancellation percentage.
 
+```
 Cancellation % = DIVIDE([Total cancelled bookings],[Total Bookings])
+```
 
 
 
