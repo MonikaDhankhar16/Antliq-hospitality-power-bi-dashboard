@@ -19,6 +19,11 @@ I, as a data analyst, figure out the key problem of declining revenue using data
 
 ###  5.  Average Rating:    — Evaluate the average hotel customer rating.
 
+# Data modeling:
+Data modeling plays a pivotal role and serves as the foundation for generating meaningful reports. The entire framework of visualizations is constructed upon a well-designed data model. Neglecting proper data modeling can have adverse effects on the overall performance of the generated reports.
+
+In the context of this project, we have meticulously followed the Snowflake data modeling method. This approach involves structuring data into normalized forms, resulting in reduced redundancy and improved query performance. This methodology enhances the way we organize and process data, ensuring optimal results for our analysis.
+
 
 
 
