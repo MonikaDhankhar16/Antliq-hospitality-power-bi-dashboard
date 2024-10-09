@@ -108,10 +108,10 @@ Cancellation % = DIVIDE([Total cancelled bookings],[Total Bookings])
 
 <h1 style="color:blue"> Power-bi-dashboard</h1>
 
-![Data modeling](12.png)
-![Data modeling](Screenshot 2024-09-05 2 dsf24050.png)
-![Data modeling](4.png)
-![Data modeling](54.png)
+![Data modeling](pro.png)
+![Data modeling](01.png)
+![Data modeling](02.png)
+
 
 # Key Findings from this dashboard:
 The dashboard was utilized in an attempt to observe all the significant key metrics every week. The metrics of Realisation, ADR, and RevPar remained constant, with only a slight fluctuation in occupancy ranging from 50% to 60% when filtering the data according to the week. Throughout the entirety of the period, both occupancy and cancellation rates remained close to the benchmark set by the industry.
