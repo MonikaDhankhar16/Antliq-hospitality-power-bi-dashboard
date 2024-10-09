@@ -104,11 +104,7 @@ Cancellation % = DIVIDE([Total cancelled bookings],[Total Bookings])
 ```
 
 
-<h1 style="color:blue"> Power-bi-dashboard</h1>
 
-
-![Data modeling](Screenshot 2024-09-05 2 dsf24050.png)
-![Data modeling](Screenshot 2024-09-05 fs224026.png)
 
 <h1 style="color:blue"> Power-bi-dashboard</h1>
 
